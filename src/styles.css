@@ -1,0 +1,66 @@
+.container {
+  margin-top: 50px;
+  max-width: 50%;
+}
+
+.card-body {
+  padding: 30px 15px;
+}
+
+.searchBox {
+  margin-bottom: 20px;
+}
+
+.searchSection {
+  text-align: center;
+}
+
+.row {
+  padding: 10px 30px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+.iconBig {
+  font-size: 100px;
+  padding: 20px 0px;
+  margin-top: 40px;
+  color: lightskyblue;
+}
+
+.currentTemp {
+  padding: 40px 10px;
+  margin-top: 40px;
+}
+#current-temp {
+  display: inline;
+}
+
+.units {
+  display: inline;
+}
+
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.iconSmall {
+  font-size: 25px;
+  margin: 15px auto;
+}
